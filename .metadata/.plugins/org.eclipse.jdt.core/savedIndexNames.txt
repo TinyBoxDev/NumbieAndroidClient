@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+/Users/b3by/Dev/numbie/NumbieAndroidClient/.metadata/.plugins/org.eclipse.jdt.core
-2869028609.index
-876821331.index
-3750296076.index
